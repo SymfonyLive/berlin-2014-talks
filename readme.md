@@ -1,7 +1,7 @@
 # [Symfony Live - Berlin 2014](http://berlin2014.live.symfony.com/) talks
 
 - All talks are in **german** or **english**.
-- Comment and rate talks on [joind.in](http://joind.in/event/view/2120)
+- No joind.in yet
 
 ## Keynote
 
