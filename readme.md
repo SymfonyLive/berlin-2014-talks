@@ -39,7 +39,7 @@ By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)
   <dd>Docker erfährt in den letzten Monaten immer größere Aufmerksamkeit, wenn es darum geht Systemumgebung wiederverwendbarer aufzubauen. Obwohl sich in dieser Zeit schon die ersten Patterns gebildet haben, um Themen wie Entwicklungsumgebungen, Hosting und Skalierbarkeit abbilden zu können, gibt es immer noch viele Stolpersteine und offene Fragen wenn man Docker für seine komplette Systemarchitektur einsetzen möchte. In der Präsentation werden wir die Schritte von der Erstellung der ersten Docker Container, ihrer Orchestrierung bis hin zum Hosting einer Symfony Applikation erkunden und dabei Tools, sowie aktuelle Best Practices einsetzen.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slideshare.net/denderello/dockerizing-symony-applications-symfony-live-berlin-2014)  
 ~~Video~~
 
 By [Dennis Benkert](https://connect.sensiolabs.com/profile/denderello)  
