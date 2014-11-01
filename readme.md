@@ -57,7 +57,7 @@ By [Dennis Benkert](https://connect.sensiolabs.com/profile/denderello)
   <dd>In diesem Vortrag werden die Grundkonzepte von REST erklärt und wie diese mit Hilfe von Symfony2 und dem FOSRestBundle umgesetzt werden. Dieser Vortrag ist daher ideal für Entwickler mit keiner oder nur geringer Erfahrung mit REST.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://friendsofsymfony.github.io/slides/resting-with-symfony2.html) (*english*)  
 ~~Video~~
 
 By [Lukas Kahwe Smith](https://connect.sensiolabs.com/profile/lsmith)  
@@ -74,7 +74,7 @@ By [Lukas Kahwe Smith](https://connect.sensiolabs.com/profile/lsmith)
   <dd>Es scheint als wären Composer und Packagist nur nutzbar wenn Packete öffentlich zugänglich gemacht werden. Das Composer Ökosystem ermöglicht es ein eigenes Packet-Repository aufzusetzen um so eigene Packete verwalten und bereitstellen zu können. Der Vortrag zeigt auf man mittels Composer, Satis und Jenkins ein Packet-Repository konfiguriert und beantwortet die Frage warum es überhaupt Sinn macht in Packet-Strukturen zu denken.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://talks.bitexpert.de/sflive14berlin-composer/)  
 ~~Video~~
 
 By [Stephan Hochdörfer](https://connect.sensiolabs.com/profile/shochdoerfer)  
@@ -142,7 +142,7 @@ By [Dustin Whittle](https://connect.sensiolabs.com/profile/dustinwhittle)
   <dd>Deploying code changes continuously to your production environment has many benefits. New features get to your users much faster which enables very short and quick iterations on them. And due to the small change sets you tend to encounter less bugs and regressions. In this talk I’ll present what Continuous Deployment means, and what you have to do, step-by-step, to make it work successfully for your project. We will cover topics like trunk based development, feature flags, partial roll outs, continuous integration, deployment automation and application monitoring.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/bastianhofmann/the-road-to-continuous-deployment-1)  
 ~~Video~~
 
 By [Bastian Hofman](https://connect.sensiolabs.com/profile/bashofmann)  
@@ -159,7 +159,7 @@ By [Bastian Hofman](https://connect.sensiolabs.com/profile/bashofmann)
   <dd>Horizontale Skalierbarkeit ist seit jeher eine zentrale Stärke von PHP-Anwendungen, und in der Cloud kann diese Architektur ihre Muskeln spielen lassen. Doch um die Möglich- und Annehmlichkeiten von PaaS-Anbietern wie Heroku optimal zu nutzen, ist es hilfreich, sich bei der Entwicklung an gewissen Vorgehensweisen und Methoden zu orientieren. Diese Präsentation beleuchtet alle Schritte vom Code und Dependency Management über die Konfiguration bis hin zur sogenannten Dev/Prod Parity, und zeigt, live auf der Bühne, wie kinderleicht es sein kann, eine Symfony- oder Silex-Anwendung auf Heroku zu deployen und zu skalieren.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dzuelke/the-twelve-factor-app-best-practices-for-modern-php-apps-2) (*english*)  
 ~~Video~~
 
 By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)  
@@ -176,7 +176,7 @@ By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)
   <dd>Wo Content gepflegt wird, entsteht schnell das Bedürfnis nach einer Volltext-Suche. Das kann man mit MySQL zwar auch bewerkstelligen, aber eben nicht so schnell und spezialisiert wie mit Apache Solr. In diesem Talk zeige ich wie man einen Suchindex in Symfony anbindet und nutzt. Das ist aber noch nicht alles. Im zweiten Teil werde ich die wichtigsten Features des auf Lucene basierenden Suchservers erklären und zeigen, dass man Solr 4 auch als komplette Datenbanklösung einsetzen kann.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/frne/solr-fur-volltext-suche-oder-gleich-als-datenbank-engine)  
 ~~Video~~
 
 By [Frank Neff](https://connect.sensiolabs.com/profile/fneff)  
@@ -185,9 +185,9 @@ By [Frank Neff](https://connect.sensiolabs.com/profile/fneff)
 
 ---
 
-## Keynote
+## Developing People
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/rowan_m/developing-people-symfonylive-berlin-2014)  
 ~~Video~~
 
 By [Rowan Merewood](https://connect.sensiolabs.com/profile/rowan_m)  
@@ -238,7 +238,7 @@ By [Nils Adermann](https://connect.sensiolabs.com/profile/naderman)
   <dd>Das Content Management Framework baut auf Symfony2 auf. Es besteht aus einer Sammlung von Bundles um einfach und bequem Content Management in Symfony2 Projekte einzubauen. Die Bundles bieten Grundfunktionen wie editierbare Menüs, URLs und Inhalte. Ich zeige wie man mit dem CMF loslegt und praktische Features nutzt wie das transparente Handling von mehrsprachigen Inhalten.</dd>
 </dl>
 
-~~Slides~~  
+[GitHub](https://github.com/dbu/conference-tutorial/pulls?q=sort:created-asc)  
 ~~Video~~
 
 By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)  
@@ -339,7 +339,7 @@ By [Dustin Whittle](https://connect.sensiolabs.com/profile/dustinwhittle)
   <dd>Bei der Arbeit an Symfony2 Applikationen gibt es häufig auch eine Vielzahl relativ generische Anforderung. Auf Grund der Größe der Symfony2 Community und ihres stark ausgeprägten Open Source Gedanken, ist daher die Wahrscheinlichkeit groß, dass es bereits ein freiverfügbares Bundle gibt, was die gewünschte Funktion bereitstellt. Sei es für die Verwaltung von Benutzerkonten bis hin zur Generierung von Eingabemasken. In diesem Vortrag schauen wir uns gemeinsam an wie man Bundles am besten findet, evaluiert und bei Bedarf erweitert bzw. verbessert. Des weiteren schauen wir uns ein paar der beliebtesten Bundles konkret an.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://friendsofsymfony.github.io/slides/there_is_a_bundle_for_that.html)  
 ~~Video~~
 
 By [Lukas Kahwe Smith](https://connect.sensiolabs.com/profile/lsmith)  
