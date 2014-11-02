@@ -5,7 +5,7 @@
 
 ## Keynote
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/horncologne/idealism-as-code-beta-1-symfonylive-berlin-2014) (*english*)  
 ~~Video~~
 
 By Jeffrey A. McGuire  
@@ -22,7 +22,7 @@ By Jeffrey A. McGuire
   <dd>Wolltest du schon immer Features in Anwendungen beliebig an- und abschalten? Neue Funktionen nur mit Subgruppen von Benutzern testen? Symfony macht es uns sehr einfach sogenannte Feature Flags zu implementieren, mit Events und DependencyInjection Container. In diesem Talk werden wir uns verschiedene Anforderungen für Feature Flags anschauen und in einer Symfony Anwendung implementieren.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://qafoo.com/talks/14_10_symfony_live_berlin_2014_feature_flags_with_symfony.pdf) (*english*)  
 ~~Video~~
 
 By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)  
@@ -39,7 +39,7 @@ By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)
   <dd>Docker erfährt in den letzten Monaten immer größere Aufmerksamkeit, wenn es darum geht Systemumgebung wiederverwendbarer aufzubauen. Obwohl sich in dieser Zeit schon die ersten Patterns gebildet haben, um Themen wie Entwicklungsumgebungen, Hosting und Skalierbarkeit abbilden zu können, gibt es immer noch viele Stolpersteine und offene Fragen wenn man Docker für seine komplette Systemarchitektur einsetzen möchte. In der Präsentation werden wir die Schritte von der Erstellung der ersten Docker Container, ihrer Orchestrierung bis hin zum Hosting einer Symfony Applikation erkunden und dabei Tools, sowie aktuelle Best Practices einsetzen.</dd>
 </dl>
 
-[Slides](http://slideshare.net/denderello/dockerizing-symony-applications-symfony-live-berlin-2014)  
+[Slides](http://slideshare.net/denderello/dockerizing-symony-applications-symfony-live-berlin-2014) (*english*)  
 ~~Video~~
 
 By [Dennis Benkert](https://connect.sensiolabs.com/profile/denderello)  
@@ -125,7 +125,7 @@ By [Thorsten Rinne](https://connect.sensiolabs.com/profile/thorsten)
   <dd>Silex is a micro framework for PHP. Join this session for an introduction to Silex and nd out how to leverage Silex for your next application. We will start with the basics of a Silex application and explore how Silex can be evolved into a full-stack framework for advanced applications. Not sure about when to use components, Silex, or Symfony? Join this session and nd out!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dustinwhittle/silex-from-micro-to-full-stack-3)  
 ~~Video~~
 
 By [Dustin Whittle](https://connect.sensiolabs.com/profile/dustinwhittle)  
@@ -187,7 +187,7 @@ By [Frank Neff](https://connect.sensiolabs.com/profile/fneff)
 
 ## Developing People
 
-[Slides](https://speakerdeck.com/rowan_m/developing-people-symfonylive-berlin-2014)  
+[Slides](https://speakerdeck.com/rowan_m/developing-people-symfonylive-berlin-2014) (*english*)  
 ~~Video~~
 
 By [Rowan Merewood](https://connect.sensiolabs.com/profile/rowan_m)  
@@ -204,7 +204,7 @@ By [Rowan Merewood](https://connect.sensiolabs.com/profile/rowan_m)
   <dd>Ein guter Controller ist ein dünner Controller. Jedoch macht es uns Symfony2 manchmal schwer dieses Ziel zu erreichen ohne dass wir sofort mehrere Schichten von unnötigen Abstraktionen auf das Problem werfen. In diesem Talk gehe ich einen anderen Weg und zeige wie man das Problem mit Symfony Bordmitteln lösen kann. Mit geschicktem Einsatz von ParamConvertern und EventListenern können wir Controller schlank halten ohne zu Überabstrahieren.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://qafoo.com/talks/14_10_symfony_live_berlin_2014_building_better_controllers.pdf) (*english*)  
 ~~Video~~
 
 By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)  
@@ -221,7 +221,7 @@ By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)
   <dd>Beim Schritt von monolitischen Anwendungen zu einem System aus verteilten Diensten steigt der Overhead für Kommunikation enorm. Dieser Vortrag demonstriert wie man sich asynchrone Mechanismen zunutze macht um diese Transformation ohne fatale Performanceverluste durchzuführen. In diesem Zusammenhang wird der praktische Einsatz von Generatoren zum Verarbeiten von Daten aus APIs vorgeführt, die bislang im PHP Umfeld fast nur in Beispielen für das Zählen bis 100 verwendet werden.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://naderman.de/slippy/src/?file=2014-10-31-Efficient-Use-of-Microservices.html) (*english*)  
 ~~Video~~
 
 By [Nils Adermann](https://connect.sensiolabs.com/profile/naderman)  
@@ -238,7 +238,7 @@ By [Nils Adermann](https://connect.sensiolabs.com/profile/naderman)
   <dd>Das Content Management Framework baut auf Symfony2 auf. Es besteht aus einer Sammlung von Bundles um einfach und bequem Content Management in Symfony2 Projekte einzubauen. Die Bundles bieten Grundfunktionen wie editierbare Menüs, URLs und Inhalte. Ich zeige wie man mit dem CMF loslegt und praktische Features nutzt wie das transparente Handling von mehrsprachigen Inhalten.</dd>
 </dl>
 
-[GitHub](https://github.com/dbu/conference-tutorial/pulls?q=sort:created-asc)  
+[GitHub](https://github.com/dbu/conference-tutorial/pulls?q=sort:created-asc) (*english*)  
 ~~Video~~
 
 By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)  
@@ -322,7 +322,7 @@ By Daniel Espendiller
   <dd>PHP is used by the likes of Facebook, Yahoo, Zynga, Tumblr, Etsy, and Wikipedia. How do the largest internet companies scale PHP to meet their demand? Join this session and find out how to use the latest tools in PHP for developing high performance applications. We’ll take a look at common techniques for scaling PHP applications and best practices for profiling and optimizing performance. After this session, you’ll leave prepared to tackle your next enterprise PHP project.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dustinwhittle/scaling-php)  
 ~~Video~~
 
 By [Dustin Whittle](https://connect.sensiolabs.com/profile/dustinwhittle)  
