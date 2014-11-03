@@ -255,7 +255,7 @@ By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)
   <dd>It’s not easy to manage a project with hundreds of Front-End assets. This talk describes how to automate some workflows in a project and solves some Symfony2 and AngularJS integration problems.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/iamtankist/life-on-the-edge-between-angularjs-and-symfony2)  
 ~~Video~~
 
 By [David Buchmann](https://connect.sensiolabs.com/profile/iamtankist)  
