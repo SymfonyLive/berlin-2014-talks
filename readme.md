@@ -6,7 +6,7 @@
 ## Keynote
 
 [Slides](https://speakerdeck.com/horncologne/idealism-as-code-beta-1-symfonylive-berlin-2014) (*english*)  
-~~Video~~
+[Video](http://youtu.be/0hnBDHBhMk8)
 
 By Jeffrey A. McGuire  
 ![github](icon/github.png) [@HornCologne](https://github.com/HornCologne)  
@@ -23,7 +23,7 @@ By Jeffrey A. McGuire
 </dl>
 
 [Slides](http://qafoo.com/talks/14_10_symfony_live_berlin_2014_feature_flags_with_symfony.pdf) (*english*)  
-~~Video~~
+[Video](http://youtu.be/Vg4t621TPSE)
 
 By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)  
 ![github](icon/github.png) [@beberlei](https://github.com/beberlei)  
@@ -40,12 +40,11 @@ By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)
 </dl>
 
 [Slides](http://slideshare.net/denderello/dockerizing-symony-applications-symfony-live-berlin-2014) (*english*)  
-~~Video~~
+[Video](http://youtu.be/2VTP3GMnuGs)
 
 By [Dennis Benkert](https://connect.sensiolabs.com/profile/denderello)  
 ![github](icon/github.png) [@denderello](https://github.com/denderello)  
 ![twitter](icon/twitter.png) [@denderello](https://twitter.com/denderello)
-
 
 ---
 
@@ -58,7 +57,7 @@ By [Dennis Benkert](https://connect.sensiolabs.com/profile/denderello)
 </dl>
 
 [Slides](http://friendsofsymfony.github.io/slides/resting-with-symfony2.html) (*english*)  
-~~Video~~
+[Video](http://youtu.be/aNC8yeWsm)
 
 By [Lukas Kahwe Smith](https://connect.sensiolabs.com/profile/lsmith)  
 ![github](icon/github.png) [@lsmith77](https://github.com/lsmith77)  
@@ -75,7 +74,7 @@ By [Lukas Kahwe Smith](https://connect.sensiolabs.com/profile/lsmith)
 </dl>
 
 [Slides](http://talks.bitexpert.de/sflive14berlin-composer/)  
-~~Video~~
+[Video](http://youtu.be/Ct7nDpKJdAI)
 
 By [Stephan Hochdörfer](https://connect.sensiolabs.com/profile/shochdoerfer)  
 ![github](icon/github.png) [@shochdoerfer](https://github.com/shochdoerfer)  
@@ -92,7 +91,7 @@ By [Stephan Hochdörfer](https://connect.sensiolabs.com/profile/shochdoerfer)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/4-c_IAviUwc)
 
 By [Christian Schäfer](https://connect.sensiolabs.com/profile/caefer)  
 ![github](icon/github.png) [@caefer](https://github.com/caefer)  
@@ -109,7 +108,7 @@ By [Christian Schäfer](https://connect.sensiolabs.com/profile/caefer)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/feRvjq_OAUk)
 
 By [Thorsten Rinne](https://connect.sensiolabs.com/profile/thorsten)  
 ![github](icon/github.png) [@thorsten](https://github.com/thorsten)  
@@ -126,7 +125,7 @@ By [Thorsten Rinne](https://connect.sensiolabs.com/profile/thorsten)
 </dl>
 
 [Slides](https://speakerdeck.com/dustinwhittle/silex-from-micro-to-full-stack-3)  
-~~Video~~
+[Video](http://youtu.be/T7dHYqQM2yc)
 
 By [Dustin Whittle](https://connect.sensiolabs.com/profile/dustinwhittle)  
 ![github](icon/github.png) [@dustinwhittle](https://github.com/dustinwhittle)  
@@ -143,7 +142,7 @@ By [Dustin Whittle](https://connect.sensiolabs.com/profile/dustinwhittle)
 </dl>
 
 [Slides](https://speakerdeck.com/bastianhofmann/the-road-to-continuous-deployment-1)  
-~~Video~~
+[Video](http://youtu.be/QEq2lQ35aoM)
 
 By [Bastian Hofman](https://connect.sensiolabs.com/profile/bashofmann)  
 ![github](icon/github.png) [@bashofmann](https://github.com/bashofmann)  
@@ -160,7 +159,7 @@ By [Bastian Hofman](https://connect.sensiolabs.com/profile/bashofmann)
 </dl>
 
 [Slides](https://speakerdeck.com/dzuelke/the-twelve-factor-app-best-practices-for-modern-php-apps-2) (*english*)  
-~~Video~~
+[Video](http://youtu.be/hAAa9wIPB8I)
 
 By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)  
 ![github](icon/github.png) [@dzuelke](https://github.com/dzuelke)  
@@ -177,7 +176,7 @@ By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)
 </dl>
 
 [Slides](https://speakerdeck.com/frne/solr-fur-volltext-suche-oder-gleich-als-datenbank-engine)  
-~~Video~~
+[Video](http://youtu.be/3o6alfoj0a8)
 
 By [Frank Neff](https://connect.sensiolabs.com/profile/fneff)  
 ![github](icon/github.png) [@frne](https://github.com/frne)  
@@ -188,7 +187,7 @@ By [Frank Neff](https://connect.sensiolabs.com/profile/fneff)
 ## Developing People
 
 [Slides](https://speakerdeck.com/rowan_m/developing-people-symfonylive-berlin-2014) (*english*)  
-~~Video~~
+[Video](http://youtu.be/cKDpP4TgHJA)
 
 By [Rowan Merewood](https://connect.sensiolabs.com/profile/rowan_m)  
 ![github](icon/github.png) [@rowan-m](https://github.com/rowan-m)  
@@ -205,7 +204,7 @@ By [Rowan Merewood](https://connect.sensiolabs.com/profile/rowan_m)
 </dl>
 
 [Slides](http://qafoo.com/talks/14_10_symfony_live_berlin_2014_building_better_controllers.pdf) (*english*)  
-~~Video~~
+[Video](http://youtu.be/s3IR0RWrkqI)
 
 By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)  
 ![github](icon/github.png) [@beberlei](https://github.com/beberlei)  
@@ -222,7 +221,7 @@ By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)
 </dl>
 
 [Slides](http://naderman.de/slippy/src/?file=2014-10-31-Efficient-Use-of-Microservices.html) (*english*)  
-~~Video~~
+[Video](http://youtu.be/U3VHIS3hXU8)
 
 By [Nils Adermann](https://connect.sensiolabs.com/profile/naderman)  
 ![github](icon/github.png) [@naderman](https://github.com/naderman)  
@@ -239,7 +238,7 @@ By [Nils Adermann](https://connect.sensiolabs.com/profile/naderman)
 </dl>
 
 [GitHub](https://github.com/dbu/conference-tutorial/pulls?q=sort:created-asc) (*english*)  
-~~Video~~
+[Video](http://youtu.be/N38-I5mqsMs)
 
 By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)  
 ![github](icon/github.png) [@dbu](https://github.com/dbu)  
@@ -256,7 +255,7 @@ By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)
 </dl>
 
 [Slides](https://speakerdeck.com/iamtankist/life-on-the-edge-between-angularjs-and-symfony2)  
-~~Video~~
+[Video](http://youtu.be/8fD_HJMVgfg)
 
 By [David Buchmann](https://connect.sensiolabs.com/profile/iamtankist)  
 ![github](icon/github.png) [@iamtankist](https://github.com/iamtankist)  
@@ -273,7 +272,7 @@ By [David Buchmann](https://connect.sensiolabs.com/profile/iamtankist)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/aut5S2uj5YA)
 
 By [Paul Seiffert](https://connect.sensiolabs.com/profile/seiffert)  
 ![github](icon/github.png) [@seiffert](https://github.com/seiffert)  
@@ -290,7 +289,7 @@ By [Paul Seiffert](https://connect.sensiolabs.com/profile/seiffert)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/T43cuxIo2-Q)
 
 By Pierluigi Meloni
 
@@ -308,7 +307,7 @@ And [Philip Washington Sorst](https://connect.sensiolabs.com/profile/philipsorst
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/HCQ4PEdLbqw)
 
 By Daniel Espendiller
 
@@ -323,7 +322,7 @@ By Daniel Espendiller
 </dl>
 
 [Slides](https://speakerdeck.com/dustinwhittle/scaling-php)  
-~~Video~~
+[Video](http://youtu.be/5hLKRbdejfo)
 
 By [Dustin Whittle](https://connect.sensiolabs.com/profile/dustinwhittle)  
 ![github](icon/github.png) [@dustinwhittle](https://github.com/dustinwhittle)  
@@ -340,7 +339,7 @@ By [Dustin Whittle](https://connect.sensiolabs.com/profile/dustinwhittle)
 </dl>
 
 [Slides](http://friendsofsymfony.github.io/slides/there_is_a_bundle_for_that.html)  
-~~Video~~
+[Video](http://youtu.be/ZpJVtzU9BpA)
 
 By [Lukas Kahwe Smith](https://connect.sensiolabs.com/profile/lsmith)  
 ![github](icon/github.png) [@lsmith77](https://github.com/lsmith77)  
@@ -357,7 +356,7 @@ By [Lukas Kahwe Smith](https://connect.sensiolabs.com/profile/lsmith)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/R_6m30t-ca0)
 
 By [Johann-Peter Hartmann](https://connect.sensiolabs.com/profile/johannhartmann)  
 ![github](icon/github.png) [@johannhartmann](https://github.com/johannhartmann)  
